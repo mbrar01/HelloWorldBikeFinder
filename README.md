@@ -4,5 +4,5 @@
 
 ## Home Screen
 
-##### Report an issue
+##### Find your bike
 ##### Upload a picture
